@@ -3,7 +3,7 @@ title: "VS2022で標準ヘッダが全部見つからない。犯人は「成功
 emoji: "🛠️"
 type: "tech"
 topics: ["visualstudio", "windows", "cpp"]
-published: false
+published: true
 ---
 
 2026年5月にVisual Studio 2022と2026を同じパソコンへ同居させた日、Hello Worldすらビルドできなくなりました。ctype.hが開けない、stdio.hが無い、float.hが見つからない。E1696とE0282が画面いっぱいに出て、最小構成のコンソールアプリでも同じ結果でした。標準ヘッダが丸ごと見えなくなっていたのです。
