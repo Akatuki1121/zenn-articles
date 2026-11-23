@@ -3,7 +3,7 @@ title: "配線図の丸印が一つ抜けていた"
 emoji: "🔌"
 type: "tech"
 topics: ["electronics", "circuit"]
-published: true
+published: false
 ---
 
 ユニバーサル基板の配線図をプログラムで描いていました。繋がる所にだけ丸印を打つ決まりにしていました。2026年11月23日に、その決まりが一か所で抜けていたことに気づきました。
